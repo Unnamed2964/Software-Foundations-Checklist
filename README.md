@@ -232,7 +232,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Exercise: 2 stars, standard, optional (eqb\_stringP)
 - - - - [x] Exercise: 2 stars, standard (t\_update\_same)
 - - - - [x] Exercise: 3 stars, standard, recommended (t\_update\_permute)
-- - [ ] The Curry-Howard Correspondence
+- - [x] The Curry-Howard Correspondence
 - - - [x] Proof Scripts
 - - - - [x] Exercise: 2 stars, standard (eight\_is\_even)
 - - - [x] Logical Connectives as Inductive Types
@@ -351,7 +351,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [ ] Additional Exercises
 - - - - [ ] Exercise: 4 stars, standard, optional (for\_while\_equiv)
 - - - - [x] Exercise: 3 stars, standard, optional (swap\_noninterfering\_assignments)
-- - - - [ ] Exercise: 4 stars, advanced, optional (capprox)
+- - - - [x] Exercise: 4 stars, advanced, optional (capprox)
 - - [ ] Hoare Logic, Part I
 - - - [x] Assertions
 - - - - [x] Exercise: 1 star, standard, optional (assertions)
@@ -652,9 +652,9 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Exercise: 3 stars (sort\_perm)
 - - - - [x] Exercise: 4 stars (insert\_sorted)
 - - - - [x] Exercise: 2 stars (sort\_sorted)
-- - - [ ] Making Sure the Specification is Right
-- - - - [ ] Exercise: 4 stars, optional (sorted\_sorted')
-- - - - [ ] Exercise: 3 stars, optional (sorted'\_sorted)
+- - - [x] Making Sure the Specification is Right
+- - - - [x] Exercise: 4 stars, optional (sorted\_sorted')
+- - - - [x] Exercise: 3 stars, optional (sorted'\_sorted)
 - - - [ ] Proving Correctness from the Alternate Spec
 - - - - [ ] Exercise: 3 stars, optional (Forall\_nth)
 - - - - [ ] Exercise: 4 stars, optional (insert\_sorted')
@@ -749,11 +749,11 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Sanity Check
 - - [ ] Priority Queues
 - - - [ ] Implementation
-- - - - [ ] Some Preliminaries
-- - - - - [ ] Exercise: 3 stars (select\_perm\_and\_friends)
+- - - - [x] Some Preliminaries
+- - - - - [x] Exercise: 3 stars (select\_perm\_and\_friends)
 - - - [ ] Predicates on Priority Queues
-- - - - [ ] Characterizations of the Operations on Queues
-- - - - - [ ] Exercise: 2 stars (simple\_priq\_proofs)
+- - - - [x] Characterizations of the Operations on Queues
+- - - - - [x] Exercise: 2 stars (simple\_priq\_proofs)
 - - [ ] Binomial Queues
 - - - [ ] Proof of Algorithm Correctness
 - - - - [ ] Various Functions Preserve the Representation Invariant
