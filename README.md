@@ -386,14 +386,14 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [x] Example: Simple Conditionals
 - - - - - [x] Exercise: 2 stars, standard (if\_minus\_plus\_reloaded)
 - - - [ ] Finding Loop Invariants
-- - - - [ ] Exercise: Slow Assignment
+- - - - [x] Exercise: Slow Assignment
 - - - - - [x] Exercise: 2 stars, standard (slow\_assignment)
 - - - - [x] Exercise: Slow Addition
 - - - - - [x] Exercise: 3 stars, standard, optional (add\_slowly\_decoration)
 - - - - [x] Example: Parity
 - - - - - [x] Exercise: 3 stars, standard, optional (parity\_formal)
-- - - - [ ] Exercise: Factorial
-- - - - - [ ] Exercise: 3 stars, standard (factorial)
+- - - - [x] Exercise: Factorial
+- - - - - [x] Exercise: 3 stars, standard (factorial)
 - - - - [x] Exercise: Min
 - - - - - [x] Exercise: 3 stars, standard (Min\_Hoare)
 - - - - - [x] Exercise: 3 stars, standard (two\_loops)
@@ -517,9 +517,9 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc\_variation4)
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc\_variation5)
 - - - - [ ] Exercise: 2 stars, standard, optional (stlc\_variation6)
-- - - - [x] Exercise: 2 stars, standard, optional (stlc\_variation7)
-- - - - [ ] Exercise: STLC with Arithmetic
-- - - - - [ ] Exercise: 5 stars, standard (stlc\_arith)
+- - - - [ ] Exercise: 2 stars, standard, optional (stlc\_variation7)
+- - - - [x] Exercise: STLC with Arithmetic
+- - - - - [x] Exercise: 5 stars, standard (stlc\_arith)
 - - [ ] More on the Simply Typed Lambda-Calculus
 - - - [ ] Simple Extensions to STLC
 - - - - [ ] General Recursion
@@ -534,10 +534,10 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - - [x] Exercise: 3 stars, standard (STLCE\_progress)
 - - - - - [x] Context Invariance
 - - - - - - [x] Exercise: 3 stars, standard (STLCE\_context\_invariance)
-- - - - - [ ] Substitution
-- - - - - - [ ] Exercise: 2 stars, standard (STLCE\_subst\_preserves\_typing)
-- - - - - [ ] Preservation
-- - - - - - [ ] Exercise: 3 stars, standard (STLCE\_preservation)
+- - - - - [x] Substitution
+- - - - - - [x] Exercise: 2 stars, standard (STLCE\_subst\_preserves\_typing)
+- - - - - [x] Preservation
+- - - - - - [x] Exercise: 3 stars, standard (STLCE\_preservation)
 - - [ ] Subtyping
 - - - [ ] Concepts
 - - - - [ ] The Subtype Relation
@@ -558,20 +558,20 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [ ] Exercise: 3 stars, standard, optional (count\_supertypes)
 - - - - - [ ] Exercise: 2 stars, standard (pair\_permutation)
 - - - [ ] Formal Definitions
-- - - - [ ] Subtyping
-- - - - - [ ] Exercise: 2 stars, standard, optional (subtyping\_judgements)
-- - - - - [ ] Exercise: 1 star, standard, optional (subtyping\_example\_1)
-- - - - - [ ] Exercise: 1 star, standard, optional (subtyping\_example\_2)
+- - - - [x] Subtyping
+- - - - - [x] Exercise: 2 stars, standard, optional (subtyping\_judgements)
+- - - - - [x] Exercise: 1 star, standard, optional (subtyping\_example\_1)
+- - - - - [x] Exercise: 1 star, standard, optional (subtyping\_example\_2)
 - - - - [ ] Typing
 - - - - - [ ] Exercise: 1 star, standard, optional (typing\_example\_0)
 - - - - - [ ] Exercise: 2 stars, standard, optional (typing\_example\_1)
 - - - - - [ ] Exercise: 2 stars, standard, optional (typing\_example\_2)
 - - - [ ] Properties
-- - - - [ ] Inversion Lemmas for Subtyping
-- - - - - [ ] Exercise: 2 stars, standard, optional (sub\_inversion\_Bool)
-- - - - - [ ] Exercise: 3 stars, standard (sub\_inversion\_arrow)
-- - - - [ ] Canonical Forms
-- - - - - [ ] Exercise: 3 stars, standard, optional (canonical\_forms\_of\_arrow\_types)
+- - - - [x] Inversion Lemmas for Subtyping
+- - - - - [x] Exercise: 2 stars, standard, optional (sub\_inversion\_Bool)
+- - - - - [x] Exercise: 3 stars, standard (sub\_inversion\_arrow)
+- - - - [x] Canonical Forms
+- - - - - [x] Exercise: 3 stars, standard, optional (canonical\_forms\_of\_arrow\_types)
 - - - - [ ] Exercises
 - - - - - [ ] Exercise: 2 stars, standard (variations)
 - - - [ ] Exercise: Adding Products
@@ -623,8 +623,8 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard (typing\_example\_1)
 - - - - - [x] Exercise: 2 stars, standard, optional (typing\_example\_2)
 - - - - [ ] Properties of Typing
-- - - - - [ ] Progress
-- - - - - - [ ] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
+- - - - - [x] Progress
+- - - - - - [x] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
 - - [ ] Normalization of STLC
 - - - [ ] Exercise: 2 stars, standard (norm\_fail)
 - - - [ ] Exercise: 5 stars, standard, recommended (norm)
@@ -748,10 +748,10 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [ ] Exercise: 3 stars (insert\_relate)
 - - - - [x] Sanity Check
 - - [ ] Priority Queues
-- - - [ ] Implementation
+- - - [x] Implementation
 - - - - [x] Some Preliminaries
 - - - - - [x] Exercise: 3 stars (select\_perm\_and\_friends)
-- - - [ ] Predicates on Priority Queues
+- - - [x] Predicates on Priority Queues
 - - - - [x] Characterizations of the Operations on Queues
 - - - - - [x] Exercise: 2 stars (simple\_priq\_proofs)
 - - [ ] Binomial Queues
