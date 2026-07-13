@@ -340,7 +340,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Proving Inequivalence
 - - - - [x] Exercise: 4 stars, standard, optional (better\_subst\_equiv)
 - - - - [x] Exercise: 3 stars, standard (inequiv\_exercise)
-- - - [ ] Extended Exercise: Nondeterministic Imp
+- - - [x] Extended Exercise: Nondeterministic Imp
 - - - - [x] Exercise: 2 stars, standard (himp\_ceval)
 - - - - [x] Exercise: 3 stars, standard (havoc\_swap)
 - - - - [x] Exercise: 4 stars, standard, optional (havoc\_copy)
@@ -385,7 +385,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Decorated Programs
 - - - - [x] Example: Simple Conditionals
 - - - - - [x] Exercise: 2 stars, standard (if\_minus\_plus\_reloaded)
-- - - [ ] Finding Loop Invariants
+- - - [x] Finding Loop Invariants
 - - - - [x] Exercise: Slow Assignment
 - - - - - [x] Exercise: 2 stars, standard (slow\_assignment)
 - - - - [x] Exercise: Slow Addition
@@ -453,8 +453,8 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - [x] Concurrent Imp
 - - - - [x] Exercise: 3 stars, standard, optional (par\_body\_n\_\_Sn)
 - - - - [x] Exercise: 3 stars, standard, optional (par\_body\_n)
-- - - [ ] A Small-Step Stack Machine
-- - - - [ ] Exercise: 3 stars, advanced (compiler\_is\_correct)
+- - - [x] A Small-Step Stack Machine
+- - - - [x] Exercise: 3 stars, advanced (compiler\_is\_correct)
 - - - [x] Aside: A `normalize` Tactic
 - - - - [x] Exercise: 1 star, standard (normalize\_ex)
 - - - - [x] Exercise: 1 star, standard, optional (normalize\_ex')
@@ -525,11 +525,11 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] General Recursion
 - - - - - [ ] Exercise: 1 star, standard, optional (halve\_fix)
 - - - - - [x] Exercise: 1 star, standard, optional (fact\_steps)
-- - - [ ] Exercise: Formalizing the Extensions
+- - - [x] Exercise: Formalizing the Extensions
 - - - - [x] Exercise: 3 stars, standard (STLCE\_definitions)
 - - - - [x] Examples
 - - - - - [x] Exercise: 3 stars, standard (STLCE\_examples)
-- - - - [ ] Properties of Typing
+- - - - [x] Properties of Typing
 - - - - - [x] Progress
 - - - - - - [x] Exercise: 3 stars, standard (STLCE\_progress)
 - - - - - [x] Context Invariance
@@ -574,7 +574,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 3 stars, standard, optional (canonical\_forms\_of\_arrow\_types)
 - - - - [ ] Exercises
 - - - - - [ ] Exercise: 2 stars, standard (variations)
-- - - [ ] Exercise: Adding Products
+- - - [x] Exercise: Adding Products
 - - - - [x] Exercise: 5 stars, standard (products)
 - - [ ] A Typechecker for STLC
 - - - [ ] Exercises
@@ -601,8 +601,8 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [x] Exercise: 2 stars, standard (store\_not\_unique)
 - - - - [ ] Preservation!
 - - - - - [ ] Exercise: 3 stars, standard (preservation\_informal)
-- - - [ ] References and Nontermination
-- - - - [ ] Exercise: 4 stars, standard (factorial\_ref)
+- - - [x] References and Nontermination
+- - - - [x] Exercise: 4 stars, standard (factorial\_ref)
 - - - [ ] Additional Exercises
 - - - - [ ] Exercise: 5 stars, standard, optional (garbage\_collector)
 - - [ ] Subtyping with Records
@@ -617,12 +617,12 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - - [ ] Exercise: 3 stars, standard (rcd\_types\_match\_informal)
 - - - - - [x] Inversion Lemmas
 - - - - - - [x] Exercise: 3 stars, standard, optional (sub\_inversion\_arrow)
-- - - [ ] Typing
+- - - [x] Typing
 - - - - [x] Typing Examples
 - - - - - [x] Exercise: 1 star, standard (typing\_example\_0)
 - - - - - [x] Exercise: 2 stars, standard (typing\_example\_1)
 - - - - - [x] Exercise: 2 stars, standard, optional (typing\_example\_2)
-- - - - [ ] Properties of Typing
+- - - - [x] Properties of Typing
 - - - - - [x] Progress
 - - - - - - [x] Exercise: 3 stars, standard (canonical\_forms\_of\_arrow\_types)
 - - [ ] Normalization of STLC
@@ -728,7 +728,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - [ ] Exercise: 4 stars (is\_redblack\_properties)
 - - [ ] Number Representations and Efficient Lookup Tables
 - - - [ ] Efficient Positive Numbers
-- - - - [ ] Exercise: 2 stars (succ\_correct)
+- - - - [x] Exercise: 2 stars (succ\_correct)
 - - - - [ ] Exercise: 3 stars (addc\_correct)
 - - - - [x] Exercise: 5 stars (compare\_correct)
 - - - [ ] Tries: Efficient Lookup Tables on Positive Binary Numbers
@@ -747,7 +747,7 @@ A checklist of the exercises I have completed in the [Software Foundations](http
 - - - - - [ ] Exercise: 2 stars (lookup\_relate)
 - - - - - [ ] Exercise: 3 stars (insert\_relate)
 - - - - [x] Sanity Check
-- - [ ] Priority Queues
+- - [x] Priority Queues
 - - - [x] Implementation
 - - - - [x] Some Preliminaries
 - - - - - [x] Exercise: 3 stars (select\_perm\_and\_friends)
